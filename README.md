@@ -11,7 +11,7 @@
 
 3.设置最大金额，超过后自定清除并提示
 
-4.金额前带零自定清除
+4.金额前带零自动清除
 
 源码：[https://github.com/LiKaiRabbit/MoneyEditText](https://github.com/LiKaiRabbit/MoneyEditText)
 
