@@ -4,9 +4,13 @@
 ![](https://github.com/LiKaiRabbit/MoneyEditText/blob/master/moneyedittext.gif)
 
 实现了四个需求：
+
 1.输入到小数点后两位停止输入
+
 2.直接输入小数点后，前面自动补零
+
 3.设置最大金额，超过后自定清除并提示
+
 4.金额前带零自定清除
 
 源码：[https://github.com/LiKaiRabbit/MoneyEditText](https://github.com/LiKaiRabbit/MoneyEditText)
