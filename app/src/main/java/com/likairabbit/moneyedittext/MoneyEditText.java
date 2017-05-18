@@ -52,7 +52,7 @@ public  int getValue(){
 }
 
 
-    public void setChange(int a){
+    public void setMax(int a){
        setInputType(InputType.TYPE_NUMBER_FLAG_DECIMAL) ;
         setKeyListener(new DigitsKeyListener(false, true)) ;
             b=a;
