@@ -1,7 +1,7 @@
 之前做的一个项目需求做精确到小数点后两位的文本输入框，所以就自定义了一个EditText
 ，效果是这样的：
 
-![](http://upload-images.jianshu.io/upload_images/4891612-0b0d7da0ed38dab5.gif?imageMogr2/auto-orient/strip)
+![](https://github.com/LiKaiRabbit/MoneyEditText/blob/master/moneyedittext.gif)
 
 实现了四个需求：
 1.输入到小数点后两位停止输入
@@ -34,4 +34,4 @@ PS:
 项目要求输出的金额不带小数点的，所以说如果金金额没有带小数点还要补俩零。就添加了个方法返回int类型的金额数：
 getValue()
 
-![](http://upload-images.jianshu.io/upload_images/4891612-ff07d02eecae30ee.gif?imageMogr2/auto-orient/strip)
+![](https://github.com/LiKaiRabbit/MoneyEditText/blob/master/edte.gif)
